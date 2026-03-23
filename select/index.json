@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "base_track": "Fire Again",
+  "base_artist": "VALORANT",
+  "createdAt": "2026-03-23T01:19:58.046772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fire Again (feat. Ashnikko)",
+      "artist": "VALORANT feat. Ashnikko",
+      "has_synced": true,
+      "path": "select/01_Fire_Again_(feat._Ashnikko)_VALORANT_feat._Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fire Again",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/02_Fire_Again_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fire Again",
+      "artist": "VALORANT Ft. Ashnikko",
+      "has_synced": true,
+      "path": "select/03_Fire_Again_VALORANT_Ft._Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fire Again",
+      "artist": "VALORANT/Ashnikko",
+      "has_synced": true,
+      "path": "select/04_Fire_Again_VALORANT_Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fire Again (feat. Ashnikko)",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/05_Fire_Again_(feat._Ashnikko)_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Light the Fire Again",
+      "artist": "Brian Doerksen",
+      "has_synced": true,
+      "path": "select/06_Light_the_Fire_Again_Brian_Doerksen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fire Again",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/07_Fire_Again_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fire Again ft. Ashnikko // Official Music Video // VALORANT Champions 2022",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/08_Fire_Again_ft._Ashnikko___Official_Music_Video___VALORANT_Champions_2022_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fire Again",
+      "artist": "VALORANT & Ashnikko",
+      "has_synced": true,
+      "path": "select/09_Fire_Again_VALORANT_&_Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fire Again",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/10_Fire_Again_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fire Again",
+      "artist": "Jaysugar",
+      "has_synced": true,
+      "path": "select/11_Fire_Again_Jaysugar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fire Again",
+      "artist": "VALORANT Music feat. Ashnikko",
+      "has_synced": true,
+      "path": "select/12_Fire_Again_VALORANT_Music_feat._Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fire Again - Dabin Remix",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/13_Fire_Again_-_Dabin_Remix_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fire Again (feat",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/14_Fire_Again_(feat_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fire Again (feat. Ashnikko)",
+      "artist": "VALORANT Music",
+      "has_synced": true,
+      "path": "select/15_Fire_Again_(feat._Ashnikko)_VALORANT_Music.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fire Again - Dabin Remix",
+      "artist": "VALORANT, Dabin",
+      "has_synced": true,
+      "path": "select/16_Fire_Again_-_Dabin_Remix_VALORANT,_Dabin.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Our Heads, Our Hearts on Fire Again",
+      "artist": "The Besnard Lakes",
+      "has_synced": true,
+      "path": "select/17_Our_Heads,_Our_Hearts_on_Fire_Again_The_Besnard_Lakes.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Fire Again",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/localdb_01_Fire_Again_VALORANT.lrc",
+      "repo_name": "DqgK4llE1cw"
+    }
+  ]
+}
